@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# boostrap
+gem 'bootstrap-sass', '~> 3.3.3'
 # users
 gem 'devise', '~> 3.4.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
